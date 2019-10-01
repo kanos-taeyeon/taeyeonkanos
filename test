@@ -1,0 +1,7 @@
+#inculde<stdio.h>
+
+int main(void)
+{
+  printf("test log");
+  return 0;
+}
